@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Scheduling reminders via email or Telegram.props" />
+</Project>
